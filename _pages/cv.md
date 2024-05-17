@@ -11,8 +11,11 @@ redirect_from:
 
 Education
 ======
-* MBA in Business Administration, Management Science & Technology Management(STEM), Duke University Fuqua School of Business, 2018
-* B.A. in Japanese, Minor International Studies, Hankuk University of Foreign Studies, 2012
+* Duke University, Fuqua School of Business 
+MBA in Business Administration, Management Science & Technology Management(STEM)
+
+* Hankuk University of Foreign Studies
+B.A. in Japanese, Minor International Studies,
 
 Work experience
 ======
