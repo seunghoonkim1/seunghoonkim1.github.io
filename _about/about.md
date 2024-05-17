@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+collection: "About Me"
 ---
 
 Hey! Here's a little bit about me.
