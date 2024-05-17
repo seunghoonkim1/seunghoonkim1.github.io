@@ -1,8 +1,6 @@
 ---
-layout: archive
 title: "About Me"
-permalink: /about/
-author_profile: true
+permalink: /about/aboutme
 ---
 
 Hey! Here's a little bit about me.
