@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Main Message
+Welcome to my homepage!
