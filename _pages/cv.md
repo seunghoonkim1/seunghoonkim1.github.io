@@ -11,6 +11,8 @@ redirect_from:
 
 Education
 ======
+* Spring 2024: Academic Pages Collaborator
+  * Github University
 * Duke University, Fuqua School of Business
   * MBA in Business Administration, Management Science & Technology Management (STEM)
 
