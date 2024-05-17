@@ -12,10 +12,10 @@ redirect_from:
 Education
 ======
 * Duke University, Fuqua School of Business
-  MBA in Business Administration, Management Science & Technology Management (STEM)
+  * MBA in Business Administration, Management Science & Technology Management (STEM)
 
 * Hankuk University of Foreign Studies
-  B.A. in Japanese, Minor International Studies
+  * B.A. in Japanese, Minor International Studies
 
 Work experience
 ======
