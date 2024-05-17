@@ -5,7 +5,7 @@ permalink: /aboutme/
 author_profile: true
 ---
 
-👨‍🔧 Hey! Here's a little bit about me.
+Hey! Here's a little bit about me.
 
 Data and operations have always been my passion. With a background in operations and supply chain management across the retail, cosmetics, and CPG industries, I discovered that data is at the heart of solving complex problems in these fields.
 
