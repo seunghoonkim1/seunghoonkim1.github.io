@@ -21,7 +21,7 @@ repository               : "seunghoonkim1/seunghoonkim1.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "seung_profile.jpg"
+  avatar           : "seung_profile.JPG"
   name             : "Seung Hoon Kim"
   pronouns         : # example: "she/her"  
   bio              : "Mixing Data Engineering and Analytics"
