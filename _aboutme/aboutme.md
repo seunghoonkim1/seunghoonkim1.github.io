@@ -1,6 +1,8 @@
 ---
+layout: archive
 title: "About Me"
 permalink: /aboutme/
+author_profile: true
 ---
 
 Hey! Here's a little bit about me.
