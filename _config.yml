@@ -200,9 +200,9 @@ kramdown:
 
 # Collections
 collections:
-  about:
+  aboutme:
     output: true
-    permalink: /:about/:path/
+    permalink: /:aboutme/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
